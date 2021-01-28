@@ -1,0 +1,15 @@
+1. Download and install 'DataExplore' or 'pandastable' software
+a) For Windows install: 
+Download and install 'DataExplore' following the instructions at 'dmnfarrell.github.io/pandastable/'
+or
+b) For Python and other platforms install: 
+install using 'pip install pandastable' following instructions at 'github.com/dmnfarrell/pandastable/wiki/Installation'
+
+2. Add 'kmeans' plugin to DataExplore
+Move 'kmeans.py' into .\plugins folder within the 'DataExplore' or 'pandastable' installation folder.  
+Default directory is 'C:\Program Files (x86)\DataExplore\plugins\' for Windows installation.
+
+3. Open 'DataExplore'
+Run 'DataExplore.exe' from installation directory
+
+4. Select from 'Menu->Plugins->K-Means Plugin' to start using the K-Means Plugin
